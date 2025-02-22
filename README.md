@@ -9,4 +9,8 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 
+<<<<<<< HEAD
+=======
+## Esto son cambios nuevos desde github
+>>>>>>> refs/remotes/origin/main
 
