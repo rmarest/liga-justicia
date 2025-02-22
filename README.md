@@ -9,5 +9,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 
-## Esto son cambios nuevos
+## Esto son cambios nuevos desde mi repositorio local
 
